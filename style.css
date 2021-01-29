@@ -3,9 +3,9 @@
    "how to change link color." */
 
 .sidenav {
-  height: 50%;
+  height: 20%;
   width: 150px;
-  position: relative;
+  position: fixed;
   z-index: 1;
   top: 0;
   left: 0;
