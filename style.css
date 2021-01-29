@@ -6,6 +6,7 @@
 position:relative;
 text-align:center;
 overflow:hidden;
+font-size: 15px;
 }
 
 body {
@@ -18,7 +19,7 @@ div {
   width:auto;
   height:auto;
   padding:5px;
-  margin:30px;
+  margin:15px;
 position:relative;
 text-align:center;
 overflow:hidden;
