@@ -1,0 +1,106 @@
+/* CSS is how you can add style to your website, such as colors, fonts, and positioning of your
+   HTML content. To learn how to do something, just try searching Google for questions like
+   "how to change link color." */
+
+.sidenav {
+  height: 100%;
+  width: 300px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #CFC4FB;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.sidenav a {
+  padding: 6px 6px 6px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #9386C3;
+  display: block;
+}
+
+.sidenav a:hover {
+  color: #fff;
+}
+
+
+.header {
+   background-color: #CFC4FB;
+  width:auto;
+  height:auto;
+  padding:5px;
+position:relative;
+text-align:center;
+overflow:hidden;
+}
+
+body {
+  margin-left: 300px;
+background-color: #E1DBF8
+}
+
+div {
+  background-color: #CFC4FB;
+  border: 5px ridge #64569B;
+  width:auto;
+  height:auto;
+  padding:10px;
+  margin:30px;
+position:relative;
+text-align:center;
+overflow:hidden;
+
+}
+
+.footer {
+   background-color: #CFC4FB;
+  width:auto;
+  height:auto;
+  padding:5px;
+position:relative;
+text-align:center;
+overflow:hidden;
+}
+
+
+a {
+  color: #9386C3;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+body {
+  color: #9386C3;
+  font-family: Tahoma, Geneva, sans-serif
+}
+
+h1 {
+  color: #9386C3;
+  font-family: Tahoma, Geneva, sans-serif
+}
+p {
+  color: #9386C3;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #9966ff;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #9966ff;
+}
+
