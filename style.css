@@ -4,8 +4,14 @@
 
 #header {
   
-  text-align: center;
   font-size: 100%;
+ background-color: #CFC4FB;
+  width:auto;
+  height:auto;
+  padding:5px;
+position:relative;
+text-align:center;
+overflow:hidden;
 
 body {
   margin-left: 300px;
