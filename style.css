@@ -3,8 +3,8 @@
    "how to change link color." */
 
 .sidenav {
-  height: 100%;
-  width: 300px;
+  height: 50%;
+  width: 150px;
   position: relative;
   z-index: 1;
   top: 0;
@@ -15,9 +15,9 @@
 }
 
 .sidenav a {
-  padding: 6px 6px 6px 32px;
+  padding: 6px 8px 6px 16px;
   text-decoration: none;
-  font-size: 25px;
+  font-size: 15px;
   color: #9386C3;
   display: block;
 }
