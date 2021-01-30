@@ -133,3 +133,7 @@ p {
   background: #9966ff;
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+}
