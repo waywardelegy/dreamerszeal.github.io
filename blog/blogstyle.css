@@ -138,16 +138,31 @@ img {
   height: auto;
 }
 
-@media screen and (max-width: 600px) {
-  .sidenavleft a {
-    float: none;
-    width: 100%;
+@media screen and (max-width: 900px) and (min-width: 600px), (min-width: 1100px) {
+  .sidenavleft {
+    font-size: 8px;
+    padding: 2px;
+    width: 10%;
+    height: 20%;
+    position: fixed;
+  z-index: 1;
+  top: 0;
+  right: 0;
+  background-color: #CFC4FB;
+  overflow-x: hidden;
+  padding-top: 20px;
   }
-}
-
-@media screen and (max-width: 600px) {
-  .sidenavright a {
-    float: none;
-    width: 100%;
+ .sidenavleft {
+    font-size: 8px;
+    padding: 2px;
+    width: 10%;
+    height: 20%;
+position: fixed;
+  z-index: 1;
+  top: 0;
+  right: 0;
+  background-color: #CFC4FB;
+  overflow-x: hidden;
+  padding-top: 20px;
   }
 }
