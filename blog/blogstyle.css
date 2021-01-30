@@ -4,7 +4,7 @@
 
 .sidenavright {
   height: 90%;
-  width: 25%;
+  width: 15%;
   position: fixed;
   z-index: 1;
   top: 0;
@@ -28,7 +28,7 @@
 
 .sidenavleft {
   height: 90%;
-  width: 25%;
+  width: 15%;
   position: fixed;
   z-index: 1;
   top: 0;
