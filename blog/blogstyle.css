@@ -4,9 +4,8 @@
 
 .sidenavright {
   height: 90%;
-  width: 250px;
+  width: 25%;
   position: fixed;
-  display: flex;
   z-index: 1;
   top: 0;
   right: 0;
@@ -29,9 +28,8 @@
 
 .sidenavleft {
   height: 90%;
-  width: 250px;
+  width: 25%;
   position: fixed;
-  display: flex;
   z-index: 1;
   top: 0;
   left: 0;
