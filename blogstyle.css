@@ -52,7 +52,7 @@
 
 .header {
    background-color: #CFC4FB;
-  width:auto;
+  width:relative;
   height:auto;
   padding:5px;
 position:relative;
@@ -69,7 +69,7 @@ background-color: #E1DBF8
 div {
   background-color: #CFC4FB;
   border: 5px ridge #64569B;
-  width:auto;
+  width:relative;
   height:auto;
   padding:10px;
   margin:30px;
@@ -81,7 +81,7 @@ overflow:hidden;
 
 .footer {
    background-color: #CFC4FB;
-  width:auto;
+  width:relative;
   height:auto;
   padding:5px;
 position:relative;
