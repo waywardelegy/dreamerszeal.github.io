@@ -61,15 +61,15 @@ overflow:hidden;
 }
 
 body {
-  margin-left: 50%;
-  margin-right: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
 background-color: #E1DBF8
 }
 
 div {
   background-color: #CFC4FB;
   border: 5px ridge #64569B;
-  width:relative;
+  width:25%;
   height:auto;
   padding:10px;
   margin:30px;
