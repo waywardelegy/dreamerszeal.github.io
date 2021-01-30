@@ -138,16 +138,10 @@ img {
   height: auto;
 }
 
-@media screen and (max-width: 700px) {
-  .sidenavright a {
-    text-align: center;
-    float: none;
-  }
+@media screen and (max-width: 480px) {
+#sidenavright {display: relative;}
 }
 
-@media screen and (max-width: 700px) {
-  .sidenavleft a {
-    text-align: center;
-    float: none;
-  }
+@media screen and (max-width: 480px) {
+#sidenavleft {display: relative;}
 }
