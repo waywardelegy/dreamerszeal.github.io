@@ -2,7 +2,31 @@
    HTML content. To learn how to do something, just try searching Google for questions like
    "how to change link color." */
 
-.sidenav {
+.sidenavright {
+  height: 100%;
+  width: 250px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  right: 0;
+  background-color: #CFC4FB;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.sidenavright a {
+  padding: 6px 6px 6px 32px;
+  text-decoration: none;
+  font-size: 15px;
+  color: #9386C3;
+  display: block;
+}
+
+.sidenavright a:hover {
+  color: #fff;
+}
+
+.sidenavleft {
   height: 100%;
   width: 250px;
   position: fixed;
@@ -14,7 +38,7 @@
   padding-top: 20px;
 }
 
-.sidenav a {
+.sidenavleft a {
   padding: 6px 6px 6px 32px;
   text-decoration: none;
   font-size: 15px;
@@ -22,10 +46,9 @@
   display: block;
 }
 
-.sidenav a:hover {
+.sidenavleft a:hover {
   color: #fff;
 }
-
 
 .header {
    background-color: #CFC4FB;
