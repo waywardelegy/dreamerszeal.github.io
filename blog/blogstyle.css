@@ -52,7 +52,7 @@
 
 .header {
    background-color: #CFC4FB;
-  width:relative;
+  width:25%;
   height:auto;
   padding:5px;
 position:relative;
@@ -81,7 +81,7 @@ overflow:hidden;
 
 .footer {
    background-color: #CFC4FB;
-  width:relative;
+  width:25%;
   height:auto;
   padding:5px;
 position:relative;
