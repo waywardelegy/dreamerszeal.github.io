@@ -29,17 +29,15 @@ overflow:hidden;
   box-sizing: border-box;
 }
 
-.column {
-  float: left;
-  width: 50%;
-  padding: 10px;
-display: grid;
+.row {
+  display: flex;
+ border: 5px ridge #301c2b;
 }
 
-.row:after {
-  content: "";
-  display: grid;
-  clear: both;
+.col {
+  flex: 1;
+  padding: 5px;
+ border: 5px ridge #301c2b;
 }
 
 .footer {
