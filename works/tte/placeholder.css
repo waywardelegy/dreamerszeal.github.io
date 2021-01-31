@@ -37,7 +37,7 @@ overflow:hidden;
   flex: 1;
   
   padding: 5px;
-  border: solid;
+ border: 5px ridge #991f00;
 }
 
 .footer {
