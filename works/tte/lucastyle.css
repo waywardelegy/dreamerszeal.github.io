@@ -29,15 +29,19 @@ overflow:hidden;
   box-sizing: border-box;
 }
 
-.row.after {
-  display: grid;
-  grid-auto-flow: column;
-  gap: 5%;
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+display: grid;
 }
 
-.column {
-  border: solid;
+.row:after {
+  content: "";
+  display: grid;
+  clear: both;
 }
+
 
 .footer {
    background-color: #c69fbc;
