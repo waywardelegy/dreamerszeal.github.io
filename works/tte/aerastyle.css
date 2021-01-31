@@ -53,6 +53,10 @@ text-align:center;
 overflow:hidden;
 }
 
+hr {
+  border-top: 5px solid #991f00;
+}
+
 a {
   color: #ff3300;
   font-family: Tahoma, Geneva, sans-serif;
