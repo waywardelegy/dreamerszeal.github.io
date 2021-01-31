@@ -31,6 +31,7 @@ overflow:hidden;
 
 .row {
   display: flex;
+ border: 5px ridge #991f00;
 }
 
 .col {
