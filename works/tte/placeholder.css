@@ -1,0 +1,115 @@
+.header {
+   background-color: #ffad99;
+  width:auto;
+  height:auto;
+  padding:5px;
+position:relative;
+text-align:center;
+overflow:hidden;
+font-size: 15px;
+}
+
+body {
+background-color: #ffad99;
+}
+
+div {
+  background-color: #ffad99;
+  border: 5px ridge #991f00;
+  width:auto;
+  height:auto;
+  padding:5px;
+  margin:15px;
+position:relative;
+text-align:center;
+overflow:hidden;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+display: grid;
+}
+
+.row:after {
+  content: "";
+  display: grid;
+  clear: both;
+}
+
+.footer {
+   background-color: #ffad99;
+  width:auto;
+  height:auto;
+  padding:5px;
+position:relative;
+text-align:center;
+overflow:hidden;
+}
+
+hr {
+  border: 5px solid #991f00;
+}
+
+a {
+  color: #ff3300;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+a:hover {
+  color: #FFF;
+}
+
+body {
+  color: #ff3300;
+  font-family: Tahoma, Geneva, sans-serif
+}
+
+h1 {
+  color: #ff3300;
+  font-family: Tahoma, Geneva, sans-serif
+  margin-top: 0;
+    margin-bottom: 0;
+}
+
+h3 {
+  color: #ff3300;
+  font-family: Tahoma, Geneva, sans-serif
+  margin-top: 0;
+    margin-bottom: 0;
+}
+
+p {
+  color: #ff3300;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #ffebe6;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #ff3300;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #ff3300;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
