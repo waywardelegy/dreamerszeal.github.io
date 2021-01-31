@@ -32,13 +32,15 @@ overflow:hidden;
 .column {
   float: left;
   width: 50%;
+  height: 500px;
   padding: 10px;
 display: grid;
 }
 
 .row:after {
   content: "";
-  display: flex;
+  display: grid;
+  height: 500px;
   clear: both;
 }
 
