@@ -73,16 +73,13 @@ body {
 h1 {
   color: #603956;
   font-family: Tahoma, Geneva, sans-serif
+  margin-top: 0;
+    margin-bottom: 0;
 }
 
 p {
   color: #603956;
   font-family: Tahoma, Geneva, sans-serif;
-}
-
-h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-    margin-top: 0;
-    margin-bottom: 0;
 }
 
 /* width */
