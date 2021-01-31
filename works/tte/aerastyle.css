@@ -38,7 +38,7 @@ display: table;
 
 .row:after {
   content: "";
-  display: table-cell;
+  display: grid;
   clear: both;
 }
 
