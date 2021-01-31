@@ -9,6 +9,7 @@
   z-index: 1;
   top: 0;
   right: 0;
+bottom: 0;
   background-color: #CFC4FB;
   overflow-x: hidden;
   padding-top: 20px;
@@ -33,6 +34,7 @@
   z-index: 1;
   top: 0;
   left: 0;
+bottom: 0;
   background-color: #CFC4FB;
   overflow-x: hidden;
   padding-top: 20px;
