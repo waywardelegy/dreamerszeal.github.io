@@ -1,5 +1,5 @@
 .header {
-   background-color: #955784;
+   background-color: #c69fbc;
   width:auto;
   height:auto;
   padding:5px;
@@ -10,11 +10,11 @@ font-size: 15px;
 }
 
 body {
-background-color: #955784;
+background-color: #c69fbc;
 }
 
 div {
-  background-color: #955784;
+  background-color: #c69fbc;
   border: 5px ridge #301c2b;
   width:auto;
   height:auto;
@@ -43,7 +43,7 @@ display: grid;
 }
 
 .footer {
-   background-color: #955784;
+   background-color: #c69fbc;
   width:auto;
   height:auto;
   padding:5px;
