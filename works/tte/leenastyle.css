@@ -1,0 +1,113 @@
+.header {
+   background-color: #ffffe6;
+  width:auto;
+  height:auto;
+  padding:5px;
+position:relative;
+text-align:center;
+overflow:hidden;
+font-size: 15px;
+}
+
+body {
+background-color: #ffffe6;
+}
+
+div {
+  background-color: #ffffe6;
+  border: 5px ridge #666600;
+  width:auto;
+  height:auto;
+  padding:5px;
+  margin:15px;
+position:relative;
+text-align:center;
+overflow:hidden;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+ border: 5px ridge #666600;
+}
+
+.col {
+  flex: 1;
+  padding: 5px;
+ border: 5px ridge #666600;
+}
+
+.footer {
+   background-color: #ffffe6;
+  width:auto;
+  height:auto;
+  padding:5px;
+position:relative;
+text-align:center;
+overflow:hidden;
+}
+
+hr {
+  border: 5px solid #666600;
+}
+
+a {
+  color: #cccc00;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+a:hover {
+  color: #FFF;
+}
+
+body {
+  color: #cccc00;
+  font-family: Tahoma, Geneva, sans-serif
+}
+
+h1 {
+  color: #cccc00;
+  font-family: Tahoma, Geneva, sans-serif
+  margin-top: 0;
+    margin-bottom: 0;
+}
+
+h3 {
+  color: #cccc00;
+  font-family: Tahoma, Geneva, sans-serif
+  margin-top: 0;
+    margin-bottom: 0;
+}
+
+p {
+  color: #cccc00;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #FFF;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #cccc00;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #cccc00;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
