@@ -52,6 +52,13 @@ body {
 h1 {
   color: #9386C3;
   font-family: Tahoma, Geneva, sans-serif
+  padding: 0px;
+}
+
+h2 {
+  color: #9386C3;
+  font-family: Tahoma, Geneva, sans-serif
+  padding: 0px;
 }
 
 p {
