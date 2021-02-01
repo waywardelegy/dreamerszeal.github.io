@@ -17,7 +17,7 @@ overflow-y: scroll;
 }
 
 .sidenavright a {
-  padding: 1px 6px 1px 6px;
+  padding: 1px 1px 1px 1px;
   text-decoration: none;
   font-size: 15px;
   color: #9386C3;
@@ -43,7 +43,7 @@ overflow-y: scroll;
 }
 
 .sidenavleft a {
-  padding: 1px 6px 1px 6px;
+  padding: 1px 1px 1px 1px;
   text-decoration: none;
   font-size: 15px;
   color: #9386C3;
