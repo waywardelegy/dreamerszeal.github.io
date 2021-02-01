@@ -148,7 +148,7 @@ img {
     height: auto;
     position: relative;
   }
-  .sidenavright a {float: left;}
+  .sidenavright a {float: center;}
   div.content {margin-left: 0;}
 }
 
@@ -158,6 +158,6 @@ img {
     height: auto;
     position: relative;
   }
-  .sidenavleft a {float: left;}
+  .sidenavleft a {float: center;}
   div.content {margin-left: 0;}
 }
