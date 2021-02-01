@@ -34,20 +34,20 @@
 
     
     </div>
-<script>
-var facts = ["This box contains a fun fact or quote. That's a fun fact!</p>
-<a href="http://waywardelegy.xyz/"><img src="affiliatebutton.png"></a> <a href="https://ascii.garden/"><img src="monar_badge_light.png"></a> <a href="https://kertuff.neocities.org/"><img src="kertuff_button.png"></a>", 
-"Nadia is a common name in several languages: in Bulgarian and Ukrainian it means "hope".</p>
-<a href="http://waywardelegy.xyz/"><img src="affiliatebutton.png"></a> <a href="https://ascii.garden/"><img src="monar_badge_light.png"></a> <a href="https://kertuff.neocities.org/"><img src="kertuff_button.png"></a>", 
-"More test text.</p>
-<a href="http://waywardelegy.xyz/"><img src="affiliatebutton.png"></a> <a href="https://ascii.garden/"><img src="monar_badge_light.png"></a> <a href="https://kertuff.neocities.org/"><img src="kertuff_button.png"></a>];
+<script>function randomtext() {
+    var randomtxt = [
+        'This box contains a fun fact or quote. That's a fun fact!</p>
+<a href="http://waywardelegy.xyz/"><img src="affiliatebutton.png"></a> <a href="https://ascii.garden/"><img src="monar_badge_light.png"></a> <a href="https://kertuff.neocities.org/"><img src="kertuff_button.png"></a>',
+        'This is a test fact!</p>
+<a href="http://waywardelegy.xyz/"><img src="affiliatebutton.png"></a> <a href="https://ascii.garden/"><img src="monar_badge_light.png"></a> <a href="https://kertuff.neocities.org/"><img src="kertuff_button.png"></a>',
+        'New Arrivals <a href="/new.html">Click here<img src="http://mastimix.in/pictures/icon-new.gif"/></a>',
+        'We changed our terms and conditions > <a href="my link"> check </a>'];
+    return randomtxt[Math.floor((Math.random() * 3.99))];
+}
 
-!function newFact() {
-  var randomFact = Math.floor(Math.random() * facts.length);
-  document.getElementById('factDisplay').innerHTML = facts[randomFact]
-}();
+document.getElementById("spam").innerHTML = randomtext();
 </script>
-    <div id="factDisplay"></div>
+    <div id="spam"></div>
 </center>
   </body>
   
