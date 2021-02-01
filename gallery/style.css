@@ -80,6 +80,6 @@ p {
 }
 
 img {
-  max-width: 35%;
-  height: 35%;
+  max-width: 700px;
+  height: relative;
 }
