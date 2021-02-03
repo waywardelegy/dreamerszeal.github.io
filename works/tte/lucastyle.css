@@ -1,5 +1,5 @@
 .header {
-   background-color: #c69fbc;
+   background-color: #dcbcbe;
   width:auto;
   height:auto;
   padding:5px;
@@ -10,12 +10,12 @@ font-size: 15px;
 }
 
 body {
-background-color: #c69fbc;
+background-color: #dcbcbe;
 }
 
 div {
-  background-color: #c69fbc;
-  border: 5px ridge #301c2b;
+  background-color: #dcbcbe;
+  border: 5px ridge #753e41;
   width:auto;
   height:auto;
   padding:5px;
@@ -31,17 +31,17 @@ overflow:hidden;
 
 .row {
   display: flex;
- border: 5px ridge #301c2b;
+ border: 5px ridge #753e41;
 }
 
 .col {
   flex: 1;
   padding: 5px;
- border: 5px ridge #301c2b;
+ border: 5px ridge #753e41;
 }
 
 .footer {
-   background-color: #c69fbc;
+   background-color: #dcbcbe;
   width:auto;
   height:auto;
   padding:5px;
@@ -51,11 +51,11 @@ overflow:hidden;
 }
 
 hr {
-  border: 5px solid #301c2b;
+  border: 5px ridge #753e41;
 }
 
 a {
-  color: #603956;
+  color: #b0696d;
   font-family: Tahoma, Geneva, sans-serif;
 }
 
@@ -64,26 +64,26 @@ a:hover {
 }
 
 body {
-  color: #603956;
+  color: #b0696d;
   font-family: Tahoma, Geneva, sans-serif
 }
 
 h1 {
-  color: #603956;
+  color: #b0696d;
   font-family: Tahoma, Geneva, sans-serif
-  margin-top: 0;
-    margin-bottom: 0;
+  padding: 0px;
+  margin: 0px;
 }
 
 h3 {
-  color: #603956;
+  color: #b0696d;
   font-family: Tahoma, Geneva, sans-serif
-  margin-top: 0;
-    margin-bottom: 0;
+  padding: 0px;
+  margin: 0px;
 }
 
 p {
-  color: #603956;
+  color: #b0696d;
   font-family: Tahoma, Geneva, sans-serif;
 }
 
@@ -94,17 +94,17 @@ p {
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: #f6eff4;
+  background: #f6eeef;
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: #603956;
+  background: #b0696d;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: #603956;
+  background: #b0696d;
 }
 
 img {
