@@ -1,0 +1,113 @@
+.header {
+   background-color: #c9a3dc;
+  width:auto;
+  height:auto;
+  padding:5px;
+position:relative;
+text-align:center;
+overflow:hidden;
+font-size: 15px;
+}
+
+body {
+background-color: #c9a3dc;
+}
+
+div {
+  background-color: #c9a3dc;
+  border: 5px ridge #582a6f;
+  width:auto;
+  height:auto;
+  padding:5px;
+  margin:15px;
+position:relative;
+text-align:center;
+overflow:hidden;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+ border: 5px ridge #582a6f;
+}
+
+.col {
+  flex: 1;
+  padding: 5px;
+ border: 5px ridge #582a6f;
+}
+
+.footer {
+   background-color: #c9a3dc;
+  width:auto;
+  height:auto;
+  padding:5px;
+position:relative;
+text-align:center;
+overflow:hidden;
+}
+
+hr {
+  border: 5px solid #582a6f;
+}
+
+a {
+  color: #9d59c0;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+a:hover {
+  color: #FFF;
+}
+
+body {
+  color: #9d59c0;
+  font-family: Tahoma, Geneva, sans-serif
+}
+
+h1 {
+  color: #9d59c0;
+  font-family: Tahoma, Geneva, sans-serif
+  padding: 0px;
+  margin: 0px;
+}
+
+h3 {
+  color: #9d59c0;
+  font-family: Tahoma, Geneva, sans-serif
+  padding: 0px;
+  margin: 0px;
+}
+
+p {
+  color: #9d59c0;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f4edf8;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #9d59c0;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #9d59c0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
