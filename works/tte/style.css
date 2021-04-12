@@ -1,5 +1,5 @@
 .header {
-   background-color: #CFC4FB;
+   background-color: #ff66a3;
   width:auto;
   height:auto;
   padding:5px;
@@ -10,12 +10,12 @@ font-size: 15px;
 }
 
 body {
-background-color: #E1DBF8
+background-color: #ffcce0;
 }
 
 div {
-  background-color: #CFC4FB;
-  border: 5px ridge #64569B;
+  background-color: #ff66a3;
+  border: 5px ridge #b30047;
   width:auto;
   height:auto;
   padding:5px;
@@ -26,7 +26,7 @@ overflow:hidden;
 }
 
 .footer {
-   background-color: #CFC4FB;
+   background-color: #ff66a3;
   width:auto;
   height:auto;
   padding:5px;
@@ -36,7 +36,7 @@ overflow:hidden;
 }
 
 a {
-  color: #9386C3;
+  color: #e6005c;
   font-family: Tahoma, Geneva, sans-serif;
 }
 
@@ -45,27 +45,26 @@ a:hover {
 }
 
 body {
-  color: #9386C3;
+  color: #e6005c;
   font-family: Tahoma, Geneva, sans-serif
 }
 
 h1 {
-  color: #9386C3;
+  color: #e6005c;
   font-family: Tahoma, Geneva, sans-serif
   padding: 0px;
   margin: 0px;
-   
 }
 
-h3 {
-  color: #9386C3;
+h2 {
+  color: #e6005c;
   font-family: Tahoma, Geneva, sans-serif
   padding: 0px;
   margin: 0px;
 }
 
 p {
-  color: #9386C3;
+  color: #e6005c;
   font-family: Tahoma, Geneva, sans-serif;
 }
 
@@ -76,17 +75,17 @@ p {
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: #f1f1f1;
+  background: #ffe6f0;
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: #9966ff;
+  background: #b30047;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: #9966ff;
+  background: #b30047;
 }
 
 img {
