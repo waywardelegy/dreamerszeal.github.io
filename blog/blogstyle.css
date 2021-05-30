@@ -10,7 +10,7 @@
   top: 0;
   right: 0;
 bottom: 0;
-  background-color: #ff66a3;
+  background-color: #ffcce0;
   overflow-x: hidden;
 overflow-y: scroll;
   padding-top: 5px;
@@ -36,7 +36,7 @@ overflow-y: scroll;
   top: 0;
   left: 0;
 bottom: 0;
-  background-color: #ff66a3;
+  background-color: #ffcce0;
   overflow-x: hidden;
 overflow-y: scroll;
   padding-top: 5px;
@@ -55,7 +55,7 @@ overflow-y: scroll;
 }
 
 .header {
-   background-color: #ff66a3;
+   background-color: #ff80bf;
   width:75%;
   height:auto;
   padding:5px;
@@ -67,11 +67,11 @@ overflow:hidden;
 body {
   margin-left: 15%;
   margin-right: 15%;
-background-color: #ff66a3;
+background-color: #ffcce0;
 }
 
 div {
-  background-color: #ff66a3;
+  background-color: #ff80bf;
   border: 5px ridge #b30047;
   width:75%;
   height:auto;
@@ -84,7 +84,7 @@ overflow:hidden;
 }
 
 .footer {
-   background-color: #ff66a3;
+   background-color: #ff80bf;
   width:75%;
   height:auto;
   padding:5px;
